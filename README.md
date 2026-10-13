@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sisekelo Maziya!
+# 👋 Hi there, I'm Sisekelo Maziya!
 
 🎓 **BCA Student at MATS University, India**  
 🤖 **Aspiring AI/ML Engineer | Technology Enthusiast | Lifelong Learner**
